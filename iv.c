@@ -90,9 +90,6 @@ int main() {
       g = (char)getchar();
       b = (char)getchar();
       color = SDL_MapRGB(psurface->format, r, g, b);
-      if (x == 50 && y == 50) {
-        printf("color=%d , r=%d , g=%d , b=%d ", color, r, g, b);
-      }
       pixel.x = x;
       pixel.y = y;
       SDL_FillRect(psurface, &pixel, color);
