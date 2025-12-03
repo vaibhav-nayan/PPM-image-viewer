@@ -76,5 +76,10 @@ P6
 - Assumes exactly one header comment line.
 - Uses SDL surface rendering (no GPU acceleration).
 
+## References
+- [SDL2 Docs](https://wiki.libsdl.org/SDL2/FrontPage)
+- [PPM Format Doc](https://netpbm.sourceforge.net/doc/ppm.html)
+- [Input and Parsing in C](https://stackoverflow.com/questions/22330969/using-fscanf-vs-fgets-and-sscanf)
+
 ## License
 Not Licensed
