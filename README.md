@@ -77,4 +77,4 @@ P6
 - Uses SDL surface rendering (no GPU acceleration).
 
 ## License
-MIT License.
+Not Licensed
